@@ -81,7 +81,7 @@ hr {
   }
 
   .contact-me-description {
-	  margin-bottom: 50px;
+	  margin: 2.5em;
   }
 
   .cycle-img {
@@ -117,7 +117,7 @@ hr {
 
 .skill-row {
 	line-height: 2;
-	margin: 50px auto 150px auto;
+	margin: 50px auto 75px auto;
 	text-align: left;
 	width: 55%;
 }
